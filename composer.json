@@ -1,0 +1,13 @@
+{
+    "name": "thomas/tests",
+    "description": "Practice",
+    "require": {
+        "phpunit/phpunit": "^4.7"
+    },
+    "authors": [
+        {
+            "name": "Thomas Manley",
+            "email": "tmanley1985@gmail.com"
+        }
+    ]
+}
